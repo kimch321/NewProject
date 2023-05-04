@@ -11,5 +11,5 @@ Github flow 연습프로젝트
 
 ** npm pakage를 다운받지 맙시다. 에러가 있는 것 같습니다.
 
-첫 클론! by deukyeol
+첫 클론!! by deukyeol
 
